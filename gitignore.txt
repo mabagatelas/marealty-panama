@@ -1,0 +1,16 @@
+Archivos de configuración sensibles
+
+CRUCIAL: EVITA SUBIR CLAVES SECRETAS
+
+backend/.env
+
+Directorios generados por Node
+
+backend/node_modules
+/node_modules
+
+Archivos de logs y bases de datos locales
+
+.log
+npm-debug.log
+.DS_Store
